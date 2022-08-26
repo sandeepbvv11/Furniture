@@ -1,0 +1,35 @@
+
+  /*-------------------------------------
+        Herofooter
+  --------------------------------------*/
+  .hero-footer{padding:100px 0 0;}
+  .herofooter{
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .single-hero-footer{
+    position: relative;
+    min-height:280px;
+    background: #f8f9fc;
+    text-align: left;
+    overflow:hidden;
+  }
+  .single-hero-footer-img.mt40{margin-top: 40px;}
+  
+  .single-hero-footer h2{
+    display: inline-block;
+    font-size: 26px;
+    font-weight: bold;
+    
+  }
+  
+  .herofooter-text{
+    padding-top: 35px;
+    padding-left: 20px;
+    width:max-content;
+  }
+  .herofooter-text p{
+    font-size: 12px;
+  }
+  
